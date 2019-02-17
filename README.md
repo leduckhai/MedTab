@@ -8,7 +8,7 @@ Last updated on 15.02.2019.
 
 ## Abstract
 The proposed algorithm creates active contour based on Level Set Evolution principles without re-initialization step needed. 
-There are 2 versions created: 1 matrix detector (DRLSE_segment_1m.m) and 2 matrix detectors (DRLSE_segment_2m.m). 
+There are 2 versions created: 1 matrix detector (DRLSE_segment_1m.m) and 2 matrix detectors (DRLSE_segment_2m.m).  
 This function works well with images which contain many small details. 
 Its results' accuracy is heavily based on input parameters.
 
