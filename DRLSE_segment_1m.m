@@ -9,7 +9,7 @@
 %   The proposed algorithm creates active contour based on Level Set Evolution 
 %   principles without re-initialization step needed.
 %   This function works well with images which contain many small details.
-%   Its results' accuracy is heavily based on input parameters.
+%   Its results' accuracy is heavily dependent on input parameters.
 %
 %   Implementation is based on this scientific paper:
 %       Chunming Li, Chenyang Xu, Changfeng Gui, and Martin D. Fox
