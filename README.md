@@ -6,10 +6,7 @@
 <img src="https://img.shields.io/badge/Last%20updated%20on-08.02.2025-brightgreen?style=for-the-badge">
 </p>
 
-This repository contains the codebase and dataset for the paper:
-
-**A Wearable Device Dataset for Mental Health Assessment Using Laser Doppler Flowmetry and Fluorescence Spectroscopy Sensors**
-
+This repository contains the codebase and dataset for the paper: **A Wearable Device Dataset for Mental Health Assessment Using Laser Doppler Flowmetry and Fluorescence Spectroscopy Sensors**
 
 [https://arxiv.org/abs/2502.00973](https://arxiv.org/abs/2502.00973)
 
@@ -28,7 +25,6 @@ This repository provides the necessary scripts, configurations, setup instructio
   author={Nguyen, Minh Ngoc and Le-Duc, Khai and Pham, Tan-Hanh and Nguyen, Trang and Luu, Quang Minh and Tran, Ba Kien and Hy, Truong-Son and Dremin, Viktor and Sokolovsky, Sergei and Rafailov, Edik},
   journal={arXiv preprint arXiv:2502.00973},
   year={2025}
-}
 }
 ```
 
