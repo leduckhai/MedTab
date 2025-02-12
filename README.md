@@ -35,12 +35,12 @@ Core developers:
 ```
 University of Toronto, Canada
 Email: duckhai.le@mail.utoronto.ca
-GitHub: [https://github.com/leduckhai](https://github.com/leduckhai)
+GitHub: https://github.com/leduckhai
 ```
 
 **Tan-Hanh Pham**
 ```
 Florida Institute of Technology, USA
-GitHub: [https://github.com/Hanhpt23/](https://github.com/Hanhpt23/)
-Personal page: [https://hanhpt23.github.io/](https://hanhpt23.github.io/)
+GitHub: https://github.com/Hanhpt23
+Personal page: https://hanhpt23.github.io
 ```
